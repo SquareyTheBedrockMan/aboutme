@@ -6,5 +6,5 @@ Yes, am I the idiot (that's also not an idiot) that does stuff. I do writing, st
 
 | Device type | Device model | Software |
 | --- | --- | --- |
-| PC | HP Victus (2022) | Windows 11 Beta
+| PC | HP Victus (2022) | (WindowsPill.png)
 | Main Phone | Nothing Phone (3) | Nothing OS 4.0 Closed Beta (Android 16)
